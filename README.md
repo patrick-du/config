@@ -1,2 +1,2 @@
-# vscode-settings
-vscode settings &amp; extensions
+# config
+terminal, code editor, etc
