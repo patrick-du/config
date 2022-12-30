@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "window.commandCenter": true,
+    "terminal.integrated.lineHeight": 1.3,
+    "terminal.integrated.cursorStyle": "line",
+    // GitLens
+    "gitlens.hovers.currentLine.over": "line",
+}
