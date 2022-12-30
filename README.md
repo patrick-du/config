@@ -1,6 +1,3 @@
-# config
-dev env configs
-
 ## .vscode
 - settings.json
 - extensions.txt
