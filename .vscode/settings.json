@@ -1,15 +1,22 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-        "source.fixAll": true
-    },
-    "editor.fontLigatures": true,
-    "editor.fontFamily": "Fira Code",
-    "window.commandCenter": true,
-    "terminal.integrated.lineHeight": 1.3,
-    "terminal.integrated.cursorStyle": "line",
-    // GitLens
-    "gitlens.hovers.currentLine.over": "line",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "Fira Code",
+	"terminal.integrated.lineHeight": 1.3,
+	"terminal.integrated.cursorStyle": "line",
+	"workbench.colorCustomizations": {
+		"tab.border": "#606369",
+		"editorGroupHeader.tabsBorder": "#606369"
+	},
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.editor.wrapTabs": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"window.commandCenter": true,
+
+	// GitLens
+	"gitlens.hovers.currentLine.over": "line"
 }
