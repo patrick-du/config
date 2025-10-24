@@ -4,3 +4,8 @@ eamodio.gitlens
 Orta.vscode-jest
 PKief.material-icon-theme
 redhat.vscode-yaml
+
+Material Icon Theme
+One Dark Pro
+Auto Rename Tag
+Claude Code
